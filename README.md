@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning powershell scripting with WQL as it pertains to Windows security and IT.
 - 👯 I’m looking to collaborate on any security related project and/or any project I can contribute to.
 - 🤔 I’m looking for help with ways to get started in an IT Security career field. 
-- 📫 How to reach me: You can reach out to me on github, and we can exchange contact INFO as necessary.
+- 📫 How to reach me: You can reach out to me on github, create a new issue and write me a message, and we can exchange contact INFO as necessary. 
 - ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". Before I put all my focus on
                learning programming and IT Security, I'd spend all my time playing guitar. 
 
