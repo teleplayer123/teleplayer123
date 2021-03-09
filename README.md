@@ -8,12 +8,12 @@
 - ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". Before I put all my focus on
                learning programming and IT Security, I'd spend all my time playing guitar. 
 
-#My Goals:
+My Goals:
 ----
 I study cyber security with the goal of starting a carrer in a related field. Ultimately,
 I would like to help people secure their private information, and defend against the
 constant threats that come with living in an world of advanced technology. 
 
-#Links
+Links
 ----
 [MyCoin](https://github.com/teleplayer123/MyCoin)
