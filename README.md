@@ -23,6 +23,8 @@ My Skill Set Links:
 ## Python
 [MyCoin](https://github.com/teleplayer123/MyCoin)
 
+[Python Scripts](https://github.com/teleplayer123/My_Codes)
+
 ## Security Exploits/Debugging
 
 [ROP Exploit](https://github.com/teleplayer123/ROP-Format-Exploit)
