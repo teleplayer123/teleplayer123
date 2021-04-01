@@ -1,19 +1,21 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on security related programming and studying for CompTIA Security+ exam.
-- 🌱 I’m currently learning powershell scripting with WQL as it pertains to Windows security and IT.
-- 👯 I’m looking to collaborate on any security related project and/or any project I can contribute to.
-- 🤔 I’m looking for help with ways to get started in an IT Security career field. 
-- 📫 How to reach me: you can reach out to me on twitter, @colesashkin. 
+- 🔭 I’m currently working on taking my technical skills and applying them towrads developing a employable skill set. 
+- 🌱 I’m currently learning DevOps, and continuing my studies in Machine Learning, and Windows/Linux troubleshooting, configuration, and security.
+- 👯 I’m looking to collaborate on DevOps projects and Machine Learning projects, as well as any other project I can be of use on. 
+- 🤔 I’m looking for help with ways to start a career in a technical field such as IT related jobs, Software Engineer, Software Development, etc. 
+- 📫 How to reach me: you can reach out to me on twitter, @colesashkin, or create an issue on this repository. 
 - ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". Before I put all my focus on
-               learning programming and IT Security, I'd spend all my time playing guitar. 
+               learning programming and computer related skills, I'd spend all my time playing guitar. 
 
 My Goals:
 ----
-I study cyber security with the goal of starting a carrer in a related field. Ultimately,
+My long term goal is to work my way up to a career in cyber security. Ultimately,
 I would like to help people secure their private information, and defend against the
 constant threats that come with living in an world of advanced technology. 
 
 Links
 ----
 [MyCoin](https://github.com/teleplayer123/MyCoin)
+[ROP Exploit](https://github.com/teleplayer123/ROP-Format-Exploit)
+[Buffer Overflow Exploit](https://github.com/teleplayer123/x86_64-Simple-BOF)
