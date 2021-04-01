@@ -26,7 +26,7 @@ My Skill Set Links:
 [Python Scripts](https://github.com/teleplayer123/My_Codes)
 
 ## Machine Learning
-[Machine Learning Scripts](https://github.com/teleplayer123/machine_learning)
+
 
 ## Security Exploits/Debugging
 
