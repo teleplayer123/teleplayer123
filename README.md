@@ -18,6 +18,18 @@ to start in an IT job position, or in a computer programming related position, s
 I am opening to any and all opportunities to advance my technical skills in my pursuit of a career in
 a computer technology field. 
 
+# My Skills
+My strongest programming language is Python. I also have a good understanding of JavaScript,
+as well as HTML, and CSS. I am very well versed in both Linux and Windows operating systems,
+and have a solid foundation in troubleshooting and securing both Linux and Windows OS. I also
+have a good understanding of Assembly Language, and debugging/reverse engineering C code with GDB,
+as can be seen in my projects: [ROP Format Exploit](https://github.com/teleplayer123/ROP-Format-Exploit)
+and [x86_64 Simple Buffer Overflow](https://github.com/teleplayer123/x86_64-Simple-BOF).
+Similarly, I have Penetration Testing skills in exploiting vulnerabilities in C code on both 
+Linux ans Window's OS. In addition, I am knowledgeable in computer Networking, with a strong understanding of
+network protocols and the OSI model, as well as network packet construction as can be seen in my 
+project [Packet Analysis](https://github.com/teleplayer123/packet_analysis_v1.2). 
+
 My Skill Set Links:
 ----
 ## Python
