@@ -20,7 +20,7 @@ a computer technology field.
 
 # My Skills
 My strongest programming language is Python. I also have a good understanding of JavaScript,
-as well as HTML, and CSS. I am very well versed in both Linux and Windows operating systems,
+as well as HTML. I am very well versed in both Linux and Windows operating systems,
 and have a solid foundation in troubleshooting and securing both Linux and Windows OS. I also
 have a good understanding of Assembly Language, and debugging/reverse engineering C code with GDB,
 as can be seen in my projects: [ROP Format Exploit](https://github.com/teleplayer123/ROP-Format-Exploit)
