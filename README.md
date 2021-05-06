@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Machine Learning projects, like [Bitcoinforecast](https://github.com/teleplayer123/BitcoinForecast). I am also working on a project called [weather-widget](https://github.com/sguthals/buildwithdrg/tree/main/weather-widget) with the amazing and inspirational [Dr. Sarah Guthals](https://github.com/sguthals).
 - 🌱 I’m currently learning to build and work with CI/CD pipelines, and continuing my studies in Machine Learning, and Windows/Linux troubleshooting, configuration, and security.
 - 👯 I’m looking to collaborate on any project or assignment I can be of help on. 
-- 🤔 I’m looking for help with ways to start a career in a technical field such as IT related jobs, Software Engineer, Software Development, etc. 
+- 🤔 I’m looking for opportunities to start a career in a technical field such as IT related jobs, Software Engineer, Software Development, Python Developer, software testing, and any job related to my skill set.
 - 📫 How to reach me: you can reach out to me on twitter, @colesashkin, or create an issue on this repository. 
 - ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". Before I put all my focus on
                learning programming and computer related skills, I'd spend all my time playing guitar. 
