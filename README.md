@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning projects, like [Bitcoinforecast](https://github.com/teleplayer123/BitcoinForecast). I am also working on a project called [weather-widget](https://github.com/sguthals/buildwithdrg/tree/main/weather-widget) with the amazing and inspirational [Dr. Sarah Guthals](https://github.com/sguthals).
-- 🌱 I’m currently learning penetration testing and network security.
-- 👯 I’m looking to collaborate on any project or assignment I can be of help on. 
+- 🔭 I’m currently working on developing my technical skill set as a programmer and test technician. 
+- 🌱 I’m currently learning programming as it pertains to hardware development.
 - 🤔 I’m looking for opportunities to furthur my knowledge of technology and programming.
 - 📫 How to reach me: Please reach out to me on my Linkedin page https://www.linkedin.com/in/cole-sashkin-44663456/, or you can reach out to me on twitter, @colesashkin, or create an issue on this repository. 
 - ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". Before I put all my focus on
