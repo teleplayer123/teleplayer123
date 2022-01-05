@@ -15,8 +15,8 @@ My Professional History
 I was so lucky to get a chance to work for Novus Labs. I learned so much, and gained many new skills.
 Although my job was a Quality Assurance Technician, I went above and beyond to learn and contribute as much as possible.
 On the job I learned how to crimp my own ethernet cords and work with an array of widely know development boards such as: EFR32, NRF52, and STM32.
-The majority of my job consisted of debugging and testing sophisticated software for well know companies, and file bug reports in an industry wide standard 
-format with complete sets of hardware, software level, and network level logs using automation I wrote to ensure preciseness and accuracy. 
+The majority of my job consisted of debugging and testing sophisticated software for well know companies, and file bug reports with JIRA, 
+with complete sets of hardware, software level, and network level logs using automation I wrote to ensure preciseness and accuracy. 
 I wrote software to automate the majority of tests that were executed on the DUT(device under test) to ensure and facilitate proper communication
 between Central and Peripheral devices. I have a lot of experience with the Linux command line and many of the widely used GUI and CLI's that have become an 
 industry standard for a lot of companies. Here is a non-exhaustive list of some of the one's I used most frequently: adb and logcat, fastboot, wireshark, tcpdump,
@@ -35,7 +35,7 @@ project [Packet Analysis](https://github.com/teleplayer123/packet_analysis_v1.2)
 consists of flashing builds development boards over JLink as well a UART, and SWD. Similarly I have hands on
 experience with serial protocals such as I2C, SPI, and UART as well as professional experience with debugging and
 interfacing with Bluetooth and BLE. My knowledge of these protocols enhance my ability to comprehend software and 
-hardware logs to pinpoint areas of importance to find and fix issues/bugs.
+hardware logs to pinpoint areas of importance to find and fix issues/bugs. All bugs are formated and filed with JIRA.
 
 My Skill Set Links:
 ----
