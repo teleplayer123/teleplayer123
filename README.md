@@ -8,7 +8,7 @@
 
 My Goals:
 ----
-My goal is to keep moving my way up in the Tech world, and solidify my career in the field.
+My goal is to keep moving my way up in the Tech world, and solidify my career in the field as a Software Developer/QA Technician/IT specialist.
 
 My Professional History
 ----
