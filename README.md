@@ -33,9 +33,10 @@ Linux ans Window's OS. In addition, I am knowledgeable in computer Networking, w
 network protocols and the OSI model, as well as network packet construction as can be seen in my 
 project [Packet Analysis](https://github.com/teleplayer123/packet_analysis_v1.2). My knowledge of hardware 
 consists of flashing builds development boards over JLink as well a UART, and SWD. Similarly I have hands on
-experience with serial protocals such as I2C, SPI, and UART as well as professional experience with debugging and
+experience with [serial protocols](https://github.com/teleplayer123/SerialComTools) such as I2C, SPI, and UART as well as professional experience with debugging and
 interfacing with Bluetooth and BLE. My knowledge of these protocols enhance my ability to comprehend software and 
-hardware logs to pinpoint areas of importance to find and fix issues/bugs. All bugs are formated and filed with JIRA.
+hardware logs to pinpoint areas of importance to find and fix issues/bugs. I have experience with Atlassian development tools,
+such as JIRA, and using the Agile approach for developing software.
 
 My Skill Set Links:
 ----
