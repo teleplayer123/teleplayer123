@@ -19,7 +19,7 @@ The majority of my job consisted of debugging and testing sophisticated software
 like JIRA, with complete sets of hardware, software level, and network level logs using automation I wrote to ensure preciseness and accuracy. 
 I wrote software to automate the majority of tests that were executed on the DUT(device under test) to ensure and facilitate proper communication
 between Central and Peripheral devices. I have a lot of experience with the Linux command line and many of the widely used GUI and CLI's that have become an 
-industry standard for a lot of companies. Here is a non-exhaustive list of some of the one's I used most frequently: adb and logcat, fastboot, wireshark, tcpdump,
+industry standard for a lot of companies. Here is a non-exhaustive list of some of the tools I used most frequently: adb and logcat, fastboot, wireshark, tcpdump,
 nmap, net-tools, and iperf. Some other linux commands and protocols that I used are: ssh, sftp, dmesg, lsusb, grep, tar, and many others.
 
 # My Skills
