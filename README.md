@@ -13,7 +13,7 @@ My goal is to keep moving my way up in the Tech world, and solidify my career in
 My Professional History
 ----
 I was so lucky to get a chance to work for Novus Labs. I learned so much, and gained many new skills.
-Although my job was a Quality Assurance Technician, I went above and beyond to learn and contribute as much as possible.
+In my job as a Quality Assurance Technician, I went above and beyond to learn and contribute as much as possible.
 On the job I learned how to crimp my own ethernet cords and work with an array of widely know development boards such as: EFR32, NRF52, and STM32.
 The majority of my job consisted of debugging and testing sophisticated software for well know companies, and file bug reports with JIRA, 
 with complete sets of hardware, software level, and network level logs using automation I wrote to ensure preciseness and accuracy. 
