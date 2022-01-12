@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on developing my technical skill set as a programmer and test technician. 
-- 🌱 I’m currently learning programming as it pertains to hardware development.
+- 🌱 I’m currently learning programming as it pertains to hardware and software development.
 - 🤔 I’m looking for opportunities to furthur my knowledge of technology and programming.
 - 📫 How to reach me: Please reach out to me on my Linkedin page https://www.linkedin.com/in/cole-sashkin-44663456/, or create an issue on this repository. 
 - ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". I have played guitar since I was 12 years old.
