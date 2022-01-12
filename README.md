@@ -36,7 +36,7 @@ consists of flashing builds development boards over JLink as well a UART, and SW
 experience with [serial protocols](https://github.com/teleplayer123/SerialComTools) such as I2C, SPI, and UART as well as professional experience with debugging and
 interfacing with Bluetooth and BLE. My knowledge of these protocols enhance my ability to comprehend software and 
 hardware logs to pinpoint areas of importance to find and fix issues/bugs. I have experience with Atlassian development tools,
-such as JIRA, and using the Agile approach for developing software.
+such as JIRA, and knowledge of the Agile approach for developing software.
 
 My Skill Set Links:
 ----
