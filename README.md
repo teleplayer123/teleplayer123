@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on networking with remote machines and expanding my knowledge of WiFi6E protocols. 
-- 🌱 I’m currently learning cryptography and more adavnced methods to improve my python skills.
-- 🤔 I’m looking for opportunities to furthur my knowledge of Enterprise AP configuration and CLI.
+- 🌱 I’m currently learning cryptography and how to use CUDA to optimize python programming.
 - 📫 How to reach me: Please reach out to me on my Linkedin page https://www.linkedin.com/in/cole-sashkin-44663456/, or create an issue on this repository. 
 - ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". I have played guitar since I was 12 years old.
 
