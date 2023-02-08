@@ -25,7 +25,7 @@ comfortable with is C#. An example can be seen in my project [ProcessManager](ht
 My hardware experience consists of flashing builds development boards with JLink as well as serial connections such as UART, and SWD. I have hands on
 experience with [serial protocols](https://github.com/teleplayer123/SerialComTools) such as I2C, SPI, and UART. As a hobby I like to experiment
 with development boards and reading data off of flash chips found on old unused hardware. I also enjoy disassembling files for security
-and malware analysis. My project [PEDisassembler](https://github.com/teleplayer123/PEDisassembler) for extracting headers from PE files is
+and malware analysis. My project [PEDisassembler](https://github.com/teleplayer123/PE_Disassembler) for extracting headers from PE files is
 an ongoing personal project I enjoy working on, as it pushes me to learn more about file formats.
 My knowledge of previously mentioned protocols enhance my ability to comprehend software and 
 hardware logs to pinpoint areas of importance to find and fix issues/bugs. In my professional carrer I have used Atlassian development tools,
