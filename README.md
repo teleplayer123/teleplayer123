@@ -18,12 +18,18 @@ and [x86_64 Simple Buffer Overflow](https://github.com/teleplayer123/x86_64-Simp
 Similarly, I have Penetration Testing skills in exploiting vulnerabilities in C code on both 
 Linux ans Window's OS. In addition, I am knowledgeable in computer Networking, with a strong understanding of
 network protocols and the OSI model, as well as network packet construction as can be seen in my 
-project [Packet Analysis](https://github.com/teleplayer123/packet_analysis_v1.2). My knowledge of hardware 
-consists of flashing builds development boards over JLink as well a UART, and SWD. Similarly I have hands on
-experience with [serial protocols](https://github.com/teleplayer123/SerialComTools) such as I2C, SPI, and UART as well as professional experience with debugging and
-interfacing with Bluetooth and BLE. My knowledge of these protocols enhance my ability to comprehend software and 
-hardware logs to pinpoint areas of importance to find and fix issues/bugs. I have experience with Atlassian development tools,
-such as JIRA, and knowledge of the Agile approach for developing software.
+project [Packet Analysis](https://github.com/teleplayer123/packet_analysis_v1.2). I have professional experience with Wired and 
+Wireless network architecture and automating throughput testing for single and multi-client test cases. I have experience
+working with popular network throuput testing software such as Iperf and Ixia Chariot. Another programming language I am 
+comfortable with is C#. An example can be seen in my project [ProcessManager](https://github.com/teleplayer123/ProcessManager).
+My hardware experience consists of flashing builds development boards with JLink as well as serial connections such as UART, and SWD. I have hands on
+experience with [serial protocols](https://github.com/teleplayer123/SerialComTools) such as I2C, SPI, and UART. As a hobby I like to experiment
+with development boards and reading data off of flash chips found on old unused hardware. I also enjoy disassembling files for security
+and malware analysis. My project [PEDisassembler](https://github.com/teleplayer123/PEDisassembler) for extracting headers from PE files is
+an ongoing personal project I enjoy working on, as it pushes me to learn more about file formats.
+My knowledge of previously mentioned protocols enhance my ability to comprehend software and 
+hardware logs to pinpoint areas of importance to find and fix issues/bugs. In my professional carrer I have used Atlassian development tools,
+such as JIRA, and experience in the Agile approach for developing software.
 
 My Skill Set Links:
 ----
