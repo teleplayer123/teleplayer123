@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on networking with remote machines and expanding my knowledge of WiFi6E protocols. 
+- 🔭 I’m currently working on networking with remote machines and expanding my knowledge of WiFi6E and WiFi7 protocols. 
 - 🌱 I’m currently learning cryptography and how to use CUDA to optimize python programming.
 - 📫 How to reach me: Please reach out to me on my Linkedin page https://www.linkedin.com/in/cole-sashkin-44663456/, or create an issue on this repository. 
 - ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". I have played guitar since I was 12 years old.
