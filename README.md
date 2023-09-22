@@ -10,9 +10,9 @@ My Goals:
 My goal is to keep moving my way up in the Tech world, and solidify my career in the field as a Software Developer/QA Technician/IT specialist.
 
 # My Skills
-My strongest programming language is Python. I am very well versed in both Linux and Windows operating systems,
-and have a solid foundation in troubleshooting and securing both Linux and Windows OS. I also
-have a good understanding of Assembly Language, and debugging/reverse engineering C code with GDB,
+My strongest programming language is Python. I have professional experience in both Linux and Windows operating systems,
+such as creating a wireless sniffer with a linux laptop, debugging/collecting driver and kernel logs, and programming in C# with native Windows APIs.
+I have experience with assembly languages: x86, x86_64, arm, as well as debugging/reverse engineering C code with GDB,
 as can be seen in my projects: [ROP Format Exploit](https://github.com/teleplayer123/ROP-Format-Exploit)
 and [x86_64 Simple Buffer Overflow](https://github.com/teleplayer123/x86_64-Simple-BOF).
 Similarly, I have Penetration Testing skills in exploiting vulnerabilities in C code on both 
