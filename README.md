@@ -8,7 +8,7 @@
 
 # My Skills
 My strongest programming language is Python. I have professional experience in both Linux and Windows operating systems,
-such as creating a wireless sniffer with a linux laptop, debugging/collecting driver and kernel logs, and programming in C# with native Windows APIs.
+such as creating wireless sniffers with a linux, debugging/collecting driver and kernel logs, and programming in C# with native Windows APIs.
 I have experience with assembly languages: x86, x86_64, arm, as well as debugging/reverse engineering C code with GDB,
 as can be seen in my projects: [ROP Format Exploit](https://github.com/teleplayer123/ROP-Format-Exploit)
 and [x86_64 Simple Buffer Overflow](https://github.com/teleplayer123/x86_64-Simple-BOF).
