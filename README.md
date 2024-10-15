@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on networking with remote machines and expanding my knowledge of WiFi6E and WiFi7 protocols. 
-- 🌱 I’m currently learning C# programming patterns to improve my test automation software skills.
+- 🔭 I’m currently working with WiFi 7 and debugging/testing compatability and performance with many different devices. 
+- 🌱 I’m currently learning more about pentesting hardware and firmware for bugs/malware, specifically networking devices.
 - 📫 How to reach me: Please reach out to me on my Linkedin page https://www.linkedin.com/in/cole-sashkin-44663456/, or create an issue on this repository. 
 - ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". I have played guitar since I was 12 years old.
 
-My Goals:
-----
-My goal is to keep moving my way up in the Tech world, and solidify my career in the field as a Software Developer/QA Technician/IT specialist.
 
 # My Skills
 My strongest programming language is Python. I have professional experience in both Linux and Windows operating systems,
