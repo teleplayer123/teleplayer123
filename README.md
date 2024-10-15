@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with WiFi 7 and debugging/testing compatability and performance with many different devices. 
-- 🌱 I’m currently learning more about pentesting hardware and firmware for bugs/malware, specifically networking devices.
+- 🌱 I’m currently learning more about pentesting hardware and firmware for bugs/malware, specifically networking devices. In parallel I am working on some Machine Learning projects integrating microcontrolers like RP2040 and SAMD51.
 - 📫 How to reach me: Please reach out to me on my Linkedin page https://www.linkedin.com/in/cole-sashkin-44663456/, or create an issue on this repository. 
 - ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". I have played guitar since I was 12 years old.
 
