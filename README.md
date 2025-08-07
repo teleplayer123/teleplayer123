@@ -7,7 +7,7 @@
 
 
 # My Skills
-My strongest programming language is Python. I have professional experience in both Linux and Windows operating systems,
+My strongest programming language is Python and I am currently learning Rust. I have professional experience in both Linux and Windows operating systems,
 such as creating wireless sniffers with a linux, debugging/collecting driver and kernel logs, and programming in C# with native Windows APIs.
 I have experience with assembly languages: x86, x86_64, arm, as well as debugging/reverse engineering C code with GDB,
 as can be seen in my projects: [ROP Format Exploit](https://github.com/teleplayer123/ROP-Format-Exploit)
@@ -30,17 +30,35 @@ such as JIRA, and experience in the Agile approach for developing software.
 
 My Skill Set Links:
 ----
+## Rust
+
+[Binary Conversion](https://github.com/teleplayer123/binparse)
+
+[Simple Port Scanner](https://github.com/teleplayer123/portscan.git)
+
 ## Python
+
+[Device Security](https://github.com/teleplayer123/secmon)
+
+[Windows Python WlanApi](https://github.com/teleplayer123/win32_pycodes)
+
 [MyCoin](https://github.com/teleplayer123/MyCoin)
 
 [Python Scripts](https://github.com/teleplayer123/My_Codes)
 
 ## Machine Learning
+
+[Audio Recognition](https://github.com/teleplayer123/audio_recognition)
+
+[Image Classifier](https://github.com/teleplayer123/image_classifier)
+
 [Perceptron](https://github.com/teleplayer123/Perceptron)
 
 [BicoinForecast](https://github.com/teleplayer123/BitcoinForecast)
 
 ## Security Exploits/Debugging
+
+[Binary Analysis](https://github.com/teleplayer123/FileAnalysis)
 
 [ROP Exploit](https://github.com/teleplayer123/ROP-Format-Exploit)
 
