@@ -66,8 +66,5 @@ My Skill Set Links:
 
 [Packet Analysis](https://github.com/teleplayer123/packet_analysis_v1.2)
 
-Most Recent Scripts
-----
-
 ## Serial and BLE Communication
 [Serial Tools](https://github.com/teleplayer123/SerialComTools)
