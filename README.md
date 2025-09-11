@@ -34,6 +34,8 @@ My Skill Set Links:
 
 [Binary Conversion](https://github.com/teleplayer123/binparse)
 
+[Mandelbrot Visual](https://github.com/teleplayer123/mandelbrot)
+
 [Simple Port Scanner](https://github.com/teleplayer123/portscan.git)
 
 ## Python
@@ -44,7 +46,7 @@ My Skill Set Links:
 
 [MyCoin](https://github.com/teleplayer123/MyCoin)
 
-[Python Scripts](https://github.com/teleplayer123/My_Codes)
+[Tools](https://github.com/teleplayer123/misctools)
 
 ## Machine Learning
 
@@ -66,5 +68,9 @@ My Skill Set Links:
 
 [Packet Analysis](https://github.com/teleplayer123/packet_analysis_v1.2)
 
-## Serial and BLE Communication
+## Misc
+[Python Scripts](https://github.com/teleplayer123/My_Codes)
+
 [Serial Tools](https://github.com/teleplayer123/SerialComTools)
+
+
