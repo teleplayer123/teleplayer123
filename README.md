@@ -1,16 +1,16 @@
 # Hi, I'm Cole Sashkin 👋
 
-### 💻 Embedded Systems & Network Protocols Engineer
+### 🔎 Technical QA Engineer | Network Systems Validation
 
-I am a highly motivated Engineer specializing in **Network Protocols (Wired/Wireless)**, **Low-Level Systems Debugging**, and robust **Software Development (Python/Rust)**. My professional work focuses on validating and optimizing critical network infrastructure, bridging the gap between hardware and high-performance software.
+I am a highly motivated Technical QA Engineer specializing in **Network Protocols (Wired/Wireless)** and **Low-Level Systems Debugging**. My professional work focuses on building robust automation, validating critical network performance (e.g., WiFi 7), and applying advanced technical skills to identify and resolve complex system issues.
 
 ---
 
 ## 🚀 Professional Focus & Current Work
 
-* **Wireless Networking:** Currently debugging and validating **WiFi 7** compatibility and performance across various device platforms.
-* **Embedded ML:** Integrating Machine Learning models on microcontrollers like **RP2040 and SAMD51** for innovative projects.
-* **Development Focus:** Actively enhancing skills in firmware-level development and **systems analysis** for networking hardware.
+* **Wireless Networking Validation:** Currently driving the debugging and performance validation of **WiFi 7** compatibility across various device platforms.
+* **Automation Engineering:** Developing robust testing frameworks and **data collection tools** for network performance and stability analysis.
+* **Embedded ML:** Integrating Machine Learning models on microcontrollers like **RP2040 and SAMD51** for innovative side projects.
 
 ---
 
@@ -22,26 +22,26 @@ I am a highly motivated Engineer specializing in **Network Protocols (Wired/Wire
 | **Languages** | **Python**, Rust, C, C# | Assembly (x86, x86_64, ARM) |
 | **Operating Systems** | Professional Linux & Windows Experience | |
 | **Networking** | OSI Model, TCP/IP, Wired/Wireless Architectures, **WiFi 7** | Packet Construction, Iperf/Ixia Automation |
-| **Tools/Debugging**| GDB, Driver/Kernel Logging, Serial Tools | Native Windows APIs, Low-Level Analysis |
+| **Tools/Debugging**| GDB, Driver/Kernel Logging, Serial Tools | Native Windows APIs, Performance Analysis Tools |
 
 ---
 
 ## 🔬 In-Depth Skills and Experience
 
-My expertise is centered on performance optimization, debugging complex systems, and building reliable automation, demonstrated through:
+My expertise is centered on systems performance validation, debugging complex network behavior, and building reliable QA automation:
 
-### **Network Engineering & Performance**
-I have professional experience with wireless architecture, including creating Linux-based wireless sniffers and automating complex single and multi-client throughput testing using industry-standard software like **Iperf and Ixia Chariot**. My strong understanding of network protocols allows me to effectively debug and analyze issues at the **packet level**.
+### **Network Validation & Automation**
+I have extensive professional experience designing and executing comprehensive single and multi-client throughput testing using industry-standard tools like **Iperf and Ixia Chariot**. My experience includes creating Linux-based wireless sniffers and automating test cases to ensure optimal network performance and stability.
 
 * [**Packet Analysis**](https://github.com/teleplayer123/packet_analysis_v1.2)
 
-### **Low-Level Debugging & Systems Analysis**
-I have experience debugging C code and analyzing low-level system behavior, utilizing assembly languages like **x86, x86\_64, and ARM** to understand and optimize system functionality. I utilize debugging tools like **GDB** for deep code investigation and reverse analysis of file formats.
+### **Low-Level Systems Debugging**
+I excel at investigating deep system issues, utilizing assembly languages like **x86, x86\_64, and ARM** to understand driver and kernel-level behavior. I am proficient in using tools like **GDB** for deep code investigation, collection of driver/kernel logs, and detailed low-level systems analysis.
 
 * [**File Analysis**](https://github.com/teleplayer123/FileAnalysis)
 
 ### **Hardware Interface & Custom Tooling**
-I enjoy developing custom hardware and software tools for analysis. My work includes building a dedicated debugger and development board for the **USB C Power Delivery (PD)** protocol to inspect and interact with the physical layer.
+I develop custom hardware and software tools to support validation efforts and deep debugging. This includes building a dedicated development board for inspecting and analyzing the **USB C Power Delivery (PD)** protocol.
 
 * [**USB C PD Debugger**](https://github.com/teleplayer123/usbc_pd_devboard)
 
@@ -55,17 +55,17 @@ I enjoy developing custom hardware and software tools for analysis. My work incl
 | [USB C PD Debugger](https://github.com/teleplayer123/usbc_pd_devboard) | Custom hardware and firmware for USB C Power Delivery protocol analysis. |
 | [Serial Tools](https://github.com/teleplayer123/SerialComTools) | Tools for reliable serial communication and device interfacing. |
 
-### **Rust Development**
-| Project Name | Description |
-| :--- | :--- |
-| [Binary Conversion](https://github.com/teleplayer123/binparse) | Tool for parsing and converting binary data structures. |
-| [Simple Port Scanner](https://github.com/teleplayer123/portscan) | Network tool demonstrating Rust efficiency in socket programming. |
-
 ### **Python & Systems Tools**
 | Project Name | Description |
 | :--- | :--- |
 | [Windows Python WlanApi](https://github.com/teleplayer123/win32_pycodes) | Demonstrating interaction with native Windows Networking APIs using Python. |
 | [Device Security](https://github.com/teleplayer123/secmon) | System monitoring and security check tools built in Python. |
+
+### **Rust Development**
+| Project Name | Description |
+| :--- | :--- |
+| [Binary Conversion](https://github.com/teleplayer123/binparse) | Tool for parsing and converting binary data structures. |
+| [Simple Port Scanner](https://github.com/teleplayer123/portscan) | Network tool demonstrating Rust efficiency in socket programming. |
 
 ### **Machine Learning**
 | Project Name | Description |
