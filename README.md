@@ -1,72 +1,84 @@
-### Hi there 👋
+# Hi, I'm Cole Sashkin 👋
 
-- 🔭 I’m currently working with WiFi 7 and debugging/testing compatability and performance with many different devices. 
-- 🌱 I’m currently learning more about pentesting hardware and firmware for bugs/malware, specifically networking devices. In parallel I am working on some Machine Learning projects integrating microcontrolers like RP2040 and SAMD51.
-- 📫 How to reach me: Please reach out to me on my Linkedin page https://www.linkedin.com/in/cole-sashkin-44663456/, or create an issue on this repository. 
-- ⚡ Fun fact: The "tele" in my username "teleplayer123" is short for "Telecaster". I have played guitar since I was 12 years old.
+### 💻 Embedded Systems & Network Security Engineer
 
+I am a highly motivated Engineer specializing in **Network Protocols (Wired/Wireless)**, **Low-Level Software Development**, and **Security Analysis**. My work bridges the gap between hardware and software, focusing on building robust systems and exploiting/defending against vulnerabilities.
 
-# My Skills
-My strongest programming language is Python, and I have experience with other languages such as Rust, C#, and C. 
-I have professional experience in both Linux and Windows operating systems,
-including creating wireless sniffers on linux, debugging/collecting driver and kernel logs, and programming with native Windows APIs.
-I have worked with assembly languages x86, x86_64, and ARM for binary analysis as well as debugging/reverse engineering C code with GDB,
-as can be seen in my projects: [ROP Format Exploit](https://github.com/teleplayer123/ROP-Format-Exploit)
-and [x86_64 Simple Buffer Overflow](https://github.com/teleplayer123/x86_64-Simple-BOF).
-In addition, I am knowledgeable in computer Networking, with a strong understanding of
-network protocols and the OSI model, as well as network packet construction as can be seen in my 
-project [Packet Analysis](https://github.com/teleplayer123/packet_analysis_v1.2). I have professional experience with Wired and 
-Wireless network architecture and automating throughput testing for single and multi-client test cases with popular network throuput testing software such as Iperf and Ixia Chariot.
-I like working with hardware and software, as well as creating tools for debugging and analysis interesting IC's and protocols like USB C PD: [USB C PD Debugger](https://github.com/teleplayer123/usbc_pd_devboard).
-I also enjoy disassembling files for security and malware analysis: [File Analysis](https://github.com/teleplayer123/FileAnalysis),
+---
 
-My Skill Set Links:
-----
-## Hardware/Firmware
+## 🚀 Professional Focus & Current Work
 
-[USB C PD Debugger](https://github.com/teleplayer123/usbc_pd_devboard)
+* **Wireless Networking:** Currently debugging and validating **WiFi 7** compatibility and performance across various device platforms.
+* **Security Research:** Actively learning advanced techniques for **hardware and firmware penetration testing** of networking devices.
+* **Embedded ML:** Integrating Machine Learning models on microcontrollers like **RP2040 and SAMD51** for innovative projects.
 
-## Rust
+---
 
-[Binary Conversion](https://github.com/teleplayer123/binparse)
+## 🧠 Core Technical Expertise
 
-[Mandelbrot Visual](https://github.com/teleplayer123/mandelbrot)
+### Languages & Environments
+| Category | Proficient | Experienced |
+| :--- | :--- | :--- |
+| **Languages** | **Python**, Rust, C, C# | Assembly (x86, x86_64, ARM) |
+| **Operating Systems** | Professional Linux & Windows Experience | |
+| **Networking** | OSI Model, TCP/IP, Wired/Wireless Architectures, **WiFi 7** | Packet Analysis, Iperf/Ixia Automation |
+| **Tools/Debugging**| GDB, Driver/Kernel Logging, IDA Pro/Ghidra | Native Windows APIs, Serial Communication Tools |
 
-[Simple Port Scanner](https://github.com/teleplayer123/portscan)
+---
 
-## Python
+## 🔬 In-Depth Skills and Experience
 
-[Device Security](https://github.com/teleplayer123/secmon)
+My expertise is centered on low-level analysis and performance optimization, demonstrated through:
 
-[Windows Python WlanApi](https://github.com/teleplayer123/win32_pycodes)
+### **Network Engineering & Automation**
+I have professional experience with wireless architecture, including creating Linux-based wireless sniffers and automating complex multi-client throughput testing using industry-standard tools like **Iperf and Ixia Chariot**.
 
-[MyCoin](https://github.com/teleplayer123/MyCoin)
+### **Low-Level Development & Security**
+I excel at binary analysis and debugging C code. I have hands-on experience working with **x86, x86\_64, and ARM** assembly for reverse engineering and exploit development.
 
-[Tools](https://github.com/teleplayer123/misctools)
+* [**ROP Format Exploit**](https://github.com/teleplayer123/ROP-Format-Exploit)
+* [**x86\_64 Simple Buffer Overflow**](https://github.com/teleplayer123/x86_64-Simple-BOF)
+* [**Packet Analysis**](https://github.com/teleplayer123/packet_analysis_v1.2)
 
-## Machine Learning
+### **Hardware Interface & Debugging**
+I enjoy working directly with hardware and creating custom tools for analyzing complex protocols. My work includes building a dedicated debugger for the **USB C Power Delivery (PD)** protocol.
 
-[Audio Recognition](https://github.com/teleplayer123/audio_recognition)
+* [**USB C PD Debugger**](https://github.com/teleplayer123/usbc_pd_devboard)
 
-[Image Classifier](https://github.com/teleplayer123/image_classifier)
+---
 
-[Perceptron](https://github.com/teleplayer123/Perceptron)
+## 📁 Portfolio Projects by Focus
 
-[BicoinForecast](https://github.com/teleplayer123/BitcoinForecast)
+### **Security & Binary Analysis**
+| Project Name | Description |
+| :--- | :--- |
+| [File Analysis](https://github.com/teleplayer123/FileAnalysis) | Disassembly for security and malware analysis. |
+| [Device Security](https://github.com/teleplayer123/secmon) | System monitoring and security tools. |
 
-## Security Exploits/Debugging
+### **Rust Development**
+| Project Name | Description |
+| :--- | :--- |
+| [Binary Conversion](https://github.com/teleplayer123/binparse) | Tool for parsing and converting binary data. |
+| [Mandelbrot Visual](https://github.com/teleplayer123/mandelbrot) | Visualization project demonstrating computational efficiency. |
 
-[Binary Analysis](https://github.com/teleplayer123/FileAnalysis)
+### **Machine Learning**
+| Project Name | Description |
+| :--- | :--- |
+| [Audio Recognition](https://github.com/teleplayer123/audio_recognition) | ML model for audio classification. |
+| [Image Classifier](https://github.com/teleplayer123/image_classifier) | Deep learning model for image classification. |
 
-[ROP Exploit](https://github.com/teleplayer123/ROP-Format-Exploit)
+### **Python & Systems Tools**
+| Project Name | Description |
+| :--- | :--- |
+| [Windows Python WlanApi](https://github.com/teleplayer123/win32_pycodes) | Demonstrating interaction with native Windows Networking APIs. |
+| [Serial Tools](https://github.com/teleplayer123/SerialComTools) | Suite of tools for serial communication and debugging. |
 
-[Buffer Overflow Exploit](https://github.com/teleplayer123/x86_64-Simple-BOF)
+---
 
-[Packet Analysis](https://github.com/teleplayer123/packet_analysis_v1.2)
+## 📫 Connect with Me
 
-## Misc
-[Python Scripts](https://github.com/teleplayer123/My_Codes)
+* **LinkedIn (Preferred):** [https://www.linkedin.com/in/cole-sashkin-44663456/](https://www.linkedin.com/in/cole-sashkin-44663456/)
+* **GitHub:** Feel free to create an issue on this repository for project-specific questions!
 
-[Serial Tools](https://github.com/teleplayer123/SerialComTools)
-
+> 🎸 **Fun Fact:** The "tele" in my username "teleplayer123" is short for "Telecaster." I've been playing guitar since I was 12!
 
