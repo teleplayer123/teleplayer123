@@ -20,9 +20,9 @@ I am a highly motivated Technical QA Engineer specializing in **Network Protocol
 | Category | Proficient | Experienced |
 | :--- | :--- | :--- |
 | **Languages** | **Python**, Rust, C, C# | Assembly (x86, x86_64, ARM) |
-| **Operating Systems** | Professional Linux & Windows Experience | |
-| **Networking** | OSI Model, TCP/IP, Wired/Wireless Architectures, **WiFi 7** | Packet Construction, Iperf/Ixia Automation |
-| **Tools/Debugging**| GDB, Driver/Kernel Logging, Serial Tools | Native Windows APIs, Performance Analysis Tools |
+| **Operating Systems** | Linux, Windows, ChromeOS, Android, MacOS | |
+| **Networking** | OSI Model, TCP/IP, Wired/Wireless Architectures, **WiFi 7**, Iperf/Ixia Automation | Packet Construction, Server Hardware Setup/Maintenance |
+| **Tools/Debugging**| Driver/Kernel Logging, Serial Tools, Native Windows APIs, Performance Analysis Tools | GDB, Radare2, Ghidra |
 
 ---
 
