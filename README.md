@@ -9,8 +9,8 @@ I am a highly motivated Technical QA Engineer specializing in **Network Protocol
 ## 🚀 Professional Focus & Current Work
 
 * **Wireless Networking Validation:** Currently driving the debugging and performance validation of **WiFi 7** compatibility across various device platforms.
-* **Automation Engineering:** Developing robust testing frameworks and **data collection tools** for network performance and stability analysis.
-* **Embedded ML:** Integrating Machine Learning models on microcontrollers like **RP2040 and SAMD51** for innovative side projects.
+* **Automation Engineering:** Developing robust testing frameworks and **data collection/graphing tools** for network performance and stability analysis.
+* **Embedded Engineering:** Integrating Machine Learning models on microcontrollers like **RP2040 and SAMD51** for innovative side projects, as well as many other projects including STM32, ESP32, nRF, and PIC microcontrollers.
 
 ---
 
@@ -22,7 +22,7 @@ I am a highly motivated Technical QA Engineer specializing in **Network Protocol
 | **Languages** | **Python**, Rust, C, C# | Assembly (x86, x86_64, ARM) |
 | **Operating Systems** | Linux, Windows, ChromeOS, Android, MacOS | |
 | **Networking** | OSI Model, TCP/IP, Wired/Wireless Architectures, **WiFi 7**, Iperf/Ixia Automation | Packet Construction, Server Hardware Setup/Maintenance |
-| **Tools/Debugging**| Driver/Kernel Logging, Serial Tools, Native Windows APIs, Performance Analysis Tools | GDB, Radare2, Ghidra |
+| **Tools/Debugging**| Driver/Kernel Logging, Serial Tools, Native Windows APIs, Performance Analysis Tools | GDB, Radare2, Ghidra, OpenOCD |
 
 ---
 
