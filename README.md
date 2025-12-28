@@ -10,7 +10,7 @@ I am a highly motivated Technical QA Engineer specializing in **Network Protocol
 
 * **Wireless Networking Validation:** Currently driving the debugging and performance validation of **WiFi 7** compatibility across various device platforms.
 * **Automation Engineering:** Developing robust testing frameworks and **data collection/graphing tools** for network performance and stability analysis.
-* **Embedded Engineering:** Integrating Machine Learning models on microcontrollers like **RP2040 and SAMD51** for innovative side projects, as well as many other projects including STM32, ESP32, nRF, and PIC microcontrollers.
+* **Embedded Engineering:** Integrating Machine Learning models on microcontrollers like **RP2040 and SAMD51** for innovative side projects, as well as many other projects including **STM32, ESP32, nRF, and PIC** microcontrollers.
 
 ---
 
