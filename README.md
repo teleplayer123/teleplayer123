@@ -43,7 +43,8 @@ I have extensive professional experience designing and executing comprehensive s
 ### **Low-Level Systems Debugging**
 I excel at investigating deep system issues, utilizing assembly languages like **x86, x86\_64, and ARM** to understand driver and kernel-level behavior. I am proficient in using tools like **GDB** for deep code investigation, collection of driver/kernel logs, and detailed low-level systems analysis.
 
-* [**File Analysis**](https://github.com/teleplayer123/FileAnalysis)
+* [Binary Conversion](https://github.com/teleplayer123/binparse)
+* [Windows Python WlanApi](https://github.com/teleplayer123/win32_pycodes)
 
 ---
 
