@@ -33,7 +33,7 @@ My expertise is centered on systems performance validation, debugging complex ne
 ### **Hardware Interface & Custom Tooling**
 I develop custom hardware and software tools to support validation efforts and deep debugging. This includes building a dedicated development board for inspecting and analyzing the **USB C Power Delivery (PD)** protocol.
 
-* [**USB C PD Debugger**](https://github.com/teleplayer123/usbc_pd_devboard)
+* [**USB C PD Debugger**](https://github.com/teleplayer123/PD_Logger)
 
 ### **Network Validation & Automation**
 I have extensive professional experience designing and executing comprehensive single and multi-client throughput testing using industry-standard tools like **Iperf and Ixia Chariot**. My experience includes creating Linux-based wireless sniffers and automating test cases to ensure optimal network performance and stability.
@@ -43,8 +43,8 @@ I have extensive professional experience designing and executing comprehensive s
 ### **Low-Level Systems Debugging**
 I excel at investigating deep system issues, utilizing assembly languages like **x86, x86\_64, and ARM** to understand driver and kernel-level behavior. I am proficient in using tools like **GDB** for deep code investigation, collection of driver/kernel logs, and detailed low-level systems analysis.
 
-* [Binary Conversion](https://github.com/teleplayer123/binparse)
-* [Windows Python WlanApi](https://github.com/teleplayer123/win32_pycodes)
+* [**Binary Conversion**](https://github.com/teleplayer123/binparse)
+* [**Windows Python WlanApi**](https://github.com/teleplayer123/win32_pycodes)
 
 ---
 
@@ -53,7 +53,7 @@ I excel at investigating deep system issues, utilizing assembly languages like *
 ### **Hardware/Firmware & Debugging**
 | Project Name | Description |
 | :--- | :--- |
-| [USB C PD Debugger](https://github.com/teleplayer123/usbc_pd_devboard) | Custom hardware and firmware for USB C Power Delivery protocol analysis. |
+| [USB C PD Debugger](https://github.com/teleplayer123/PD_Logger) | Custom hardware and firmware for USB C Power Delivery protocol analysis. |
 | [Serial Tools](https://github.com/teleplayer123/SerialComTools) | Tools for reliable serial communication and device interfacing. |
 
 ### **Python & Systems Tools**
