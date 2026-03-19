@@ -43,7 +43,7 @@ I have extensive professional experience designing and executing comprehensive s
 ### **Low-Level Systems Debugging**
 I excel at investigating deep system issues, utilizing assembly languages like **x86, x86\_64, and ARM** to understand driver and kernel-level behavior. I am proficient in using tools like **GDB** for deep code investigation, collection of driver/kernel logs, and detailed low-level systems analysis.
 
-* [**Binary Conversion**](https://github.com/teleplayer123/binparse)
+* [**Binary Conversion**](https://github.com/teleplayer123/hexparse)
 * [**Windows Python WlanApi**](https://github.com/teleplayer123/win32_pycodes)
 
 ---
@@ -65,7 +65,7 @@ I excel at investigating deep system issues, utilizing assembly languages like *
 ### **Rust Development**
 | Project Name | Description |
 | :--- | :--- |
-| [Binary Conversion](https://github.com/teleplayer123/binparse) | Tool for parsing and converting binary data structures. |
+| [Binary Conversion](https://github.com/teleplayer123/hexparse) | Tool for parsing and converting binary data structures. |
 | [Simple Port Scanner](https://github.com/teleplayer123/portscan) | Network tool demonstrating Rust efficiency in socket programming. |
 
 ### **Machine Learning**
