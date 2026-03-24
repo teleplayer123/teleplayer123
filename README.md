@@ -34,6 +34,7 @@ My expertise is centered on systems performance validation, debugging complex ne
 I develop custom hardware and software tools to support validation efforts and deep debugging. This includes building a dedicated development board for inspecting and analyzing the **USB C Power Delivery (PD)** protocol.
 
 * [**USB C PD Debugger**](https://github.com/teleplayer123/PD_Logger)
+* [**Binary Analysis**](https://github.com/teleplayer123/binparse)
 
 ### **Network Validation & Automation**
 I have extensive professional experience designing and executing comprehensive single and multi-client throughput testing using industry-standard tools like **Iperf and Ixia Chariot**. My experience includes creating Linux-based wireless sniffers and automating test cases to ensure optimal network performance and stability.
@@ -66,6 +67,7 @@ I excel at investigating deep system issues, utilizing assembly languages like *
 | Project Name | Description |
 | :--- | :--- |
 | [Binary Conversion](https://github.com/teleplayer123/hexparse) | Tool for parsing and converting binary data structures. |
+| [Binary Analysis](https://github.com/teleplayer123/binparse)   | TUI for inspecting content of binary files. |
 | [Simple Port Scanner](https://github.com/teleplayer123/portscan) | Network tool demonstrating Rust efficiency in socket programming. |
 
 ### **Machine Learning**
