@@ -68,6 +68,7 @@ I excel at investigating deep system issues, utilizing assembly languages like *
 | :--- | :--- |
 | [Binary Conversion](https://github.com/teleplayer123/hexparse) | Tool for parsing and converting binary data structures. |
 | [Binary Analysis](https://github.com/teleplayer123/binparse)   | TUI for inspecting content of binary files. |
+| [Fractal Visuals](https://github.com/teleplayer123/fractals_visuals) | Windows views of fractal patterns changing over time. |
 | [Simple Port Scanner](https://github.com/teleplayer123/portscan) | Network tool demonstrating Rust efficiency in socket programming. |
 
 ### **Machine Learning**
