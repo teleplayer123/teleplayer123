@@ -40,12 +40,13 @@ I develop custom hardware and software tools to support validation efforts and d
 I have extensive professional experience designing and executing comprehensive single and multi-client throughput testing using industry-standard tools like **Iperf and Ixia Chariot**. My experience includes creating Linux-based wireless sniffers and automating test cases to ensure optimal network performance and stability.
 
 * [**Packet Analysis**](https://github.com/teleplayer123/packet_analysis_v1.2)
+* [**Windows Python WlanApi**](https://github.com/teleplayer123/win32_pycodes)
 
 ### **Low-Level Systems Debugging**
 I excel at investigating deep system issues, utilizing assembly languages like **x86, x86\_64, and ARM** to understand driver and kernel-level behavior. I am proficient in using tools like **GDB** for deep code investigation, collection of driver/kernel logs, and detailed low-level systems analysis.
 
 * [**Binary Conversion**](https://github.com/teleplayer123/hexparse)
-* [**Windows Python WlanApi**](https://github.com/teleplayer123/win32_pycodes)
+
 
 ---
 
