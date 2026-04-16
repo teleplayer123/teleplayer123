@@ -28,13 +28,19 @@ I am a highly motivated Technical QA Engineer specializing in **Network Protocol
 
 ## 🔬 In-Depth Skills and Experience
 
-My expertise is centered on systems performance validation, debugging complex network behavior, and building reliable QA automation:
+My expertise is centered on systems performance validation, debugging complex network behavior, building software to aid in security audits, and building reliable QA automation:
+
+### **Security Tooling**
+I develop custom software to help in security analysis and keep up with the ever growing cyber security threats and vulnerabilities. 
+
+* [**Vulnerability Scanner**](https://github.com/teleplayer123/pupscan)
+* [**Binary Analysis**](https://github.com/teleplayer123/binparse)
 
 ### **Hardware Interface & Custom Tooling**
 I develop custom hardware and software tools to support validation efforts and deep debugging. This includes building a dedicated development board for inspecting and analyzing the **USB C Power Delivery (PD)** protocol.
 
 * [**USB C PD Debugger**](https://github.com/teleplayer123/PD_Logger)
-* [**Binary Analysis**](https://github.com/teleplayer123/binparse)
+* [**USB Comm**](https://github.com/teleplayer123/usbcomm)
 
 ### **Network Validation & Automation**
 I have extensive professional experience designing and executing comprehensive single and multi-client throughput testing using industry-standard tools like **Iperf and Ixia Chariot**. My experience includes creating Linux-based wireless sniffers and automating test cases to ensure optimal network performance and stability.
@@ -46,7 +52,6 @@ I have extensive professional experience designing and executing comprehensive s
 I excel at investigating deep system issues, utilizing assembly languages like **x86, x86\_64, and ARM** to understand driver and kernel-level behavior. I am proficient in using tools like **GDB** for deep code investigation, collection of driver/kernel logs, and detailed low-level systems analysis.
 
 * [**Binary Conversion**](https://github.com/teleplayer123/hexparse)
-
 
 ---
 
