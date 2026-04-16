@@ -35,6 +35,7 @@ I develop custom software to help in security analysis and keep up with ever gro
 
 * [**Vulnerability Scanner**](https://github.com/teleplayer123/pupscan)
 * [**Binary Analysis**](https://github.com/teleplayer123/binparse)
+* [**Security LLM**](https://github.com/teleplayer123/binalyzer)
 
 ### **Hardware Interface & Custom Tooling**
 I develop custom hardware and software tools to support validation efforts and deep debugging. This includes building a dedicated development board for inspecting and analyzing the **USB C Power Delivery (PD)** protocol.
