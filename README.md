@@ -31,7 +31,7 @@ I am a highly motivated Technical QA Engineer specializing in **Network Protocol
 My expertise is centered on systems performance validation, debugging complex network behavior, building software to aid in security audits, and building reliable QA automation:
 
 ### **Security Tooling**
-I develop custom software to help in security analysis and keep up with the ever growing cyber security threats and vulnerabilities. 
+I develop custom software to help in security analysis and keep up with ever growing cyber security threats and vulnerabilities. 
 
 * [**Vulnerability Scanner**](https://github.com/teleplayer123/pupscan)
 * [**Binary Analysis**](https://github.com/teleplayer123/binparse)
