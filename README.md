@@ -58,6 +58,21 @@ I excel at investigating deep system issues, utilizing assembly languages like *
 
 ## 📁 Portfolio Projects by Focus
 
+### **Agent Harness Tooling**
+| Project Name | Description |
+| :--- | :--- |
+| [Security Analyzer](https://github.com/teleplayer123/binalyzer) | LLM tool server running in a container to analyze files for security vulnerabilities. | 
+| [LLM LoRA Fine-tunning](https://github.com/teleplayer123/nl2bash_train) | Python script to train a small model on Bash commands |
+| [RPi Zero 2W Chatbot](https://github.com/teleplayer123/rpi_chatbot) | Raspberry Pi Zero 2W with Whisplay Hat utilizing Whisplay's python library and Whisper.cpp for Speech-to-Text command execution | 
+
+### **Rust Development**
+| Project Name | Description |
+| :--- | :--- |
+| [Binary Conversion](https://github.com/teleplayer123/hexparse) | Tool for parsing and converting binary data structures. |
+| [Binary Analysis](https://github.com/teleplayer123/binparse)   | TUI for inspecting content of binary files. |
+| [Fractal Visuals](https://github.com/teleplayer123/fractal_visuals) | Windows views of fractal patterns changing over time. |
+| [Vulnerability Scanner](https://github.com/teleplayer123/pupscan) | Security tool to check dependency file for packages with vulnerabilities |
+
 ### **Hardware/Firmware & Debugging**
 | Project Name | Description |
 | :--- | :--- |
@@ -69,14 +84,6 @@ I excel at investigating deep system issues, utilizing assembly languages like *
 | :--- | :--- |
 | [Windows Python WlanApi](https://github.com/teleplayer123/win32_pycodes) | Demonstrating interaction with native Windows Networking APIs using Python. |
 | [Device Security](https://github.com/teleplayer123/secmon) | System monitoring and security check tools built in Python. |
-
-### **Rust Development**
-| Project Name | Description |
-| :--- | :--- |
-| [Binary Conversion](https://github.com/teleplayer123/hexparse) | Tool for parsing and converting binary data structures. |
-| [Binary Analysis](https://github.com/teleplayer123/binparse)   | TUI for inspecting content of binary files. |
-| [Fractal Visuals](https://github.com/teleplayer123/fractal_visuals) | Windows views of fractal patterns changing over time. |
-| [Vulnerability Scanner](https://github.com/teleplayer123/pupscan) | Security tool to check dependency file for packages with vulnerabilities |
 
 ### **Machine Learning**
 | Project Name | Description |
