@@ -2,7 +2,7 @@
 
 ### 🔎 Technical QA and Software Engineer | Network Systems Validation
 
-I am a highly motivated Technical QA Engineer specializing in **Network Protocols (Wired/Wireless)** and **Low-Level Systems Debugging**. My professional work focuses on building robust automation, validating critical network performance (e.g., WiFi 7), and applying advanced technical skills to identify and resolve complex system issues.
+I am a highly motivated Technical QA and Software Engineer specializing in **Network Protocols (Wired/Wireless)** and **Low-Level Systems Debugging**. My professional work focuses on building robust automation, validating critical network performance (e.g., WiFi 7), and applying advanced technical skills to identify and resolve complex system issues.
 
 ---
 
